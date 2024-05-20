@@ -15,6 +15,7 @@ typora-copy-images-to: api-security-platform-v1
 typora-root-url: api-security-platform-v1
 ---
 
-**接口安全扫描服务，可以接入流水线对接口安全进行扫描。**
+**接口安全扫描服务，可以接入流水线对接口进行安全扫描。**
 
-{% asset_img api-security-platform-v1.png "api security platform v1" %}
+{% asset_img api-security-platform-v1-3.png "api security platform v1-3" %}
+{% asset_img api-security-platform-v1-4.png "api security platform v1-4" %}
