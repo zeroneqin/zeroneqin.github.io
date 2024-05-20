@@ -14,8 +14,8 @@ typora-copy-images-to: dependency-security-platform-v1
 typora-root-url: code-dependency-security-platform-v1
 ---
 
-**代码依赖扫描服务，可以接入流水线对代码依赖的库和包进行扫描。**
+**依赖扫描服务，可以接入流水线对代码依赖的库和包进行扫描。**
 
 
 
-{% asset_img dependency-security-platform-v1.png "dependency security platform v1" %}
+{% asset_img code-dependency-platform-v1.png "code dependency platform v1" %}
