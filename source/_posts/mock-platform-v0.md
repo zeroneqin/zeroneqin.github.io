@@ -2,7 +2,7 @@
 title: 如何实现一个Mock平台
 date: 2021-01-27 15:49:09
 updated: 
-top: 919
+top: 860
 categories: 
 - [测试服务/平台, 辅助服务/平台, Mock平台]
 - [测试类型/技术, Mock技术]
