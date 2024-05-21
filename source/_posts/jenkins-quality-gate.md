@@ -1,7 +1,7 @@
 ---
 title: 基于开源软件的DevOps流水线质量保障体系（Based on Jenkins）
 date: 2022-10-27 15:49:09
-updated: 2024-01-06 11:00:23
+updated: 2023-12-06 11:00:23
 top: 1000
 categories: 
 - [DevOps, 流水线, 质量关卡/质量门, 架构]
