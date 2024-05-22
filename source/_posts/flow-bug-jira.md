@@ -5,7 +5,6 @@ updated:
 top: 830
 categories: 
 - [测试规范/标准, Bug规范]
-- [测试管理, Bug管理]
 tags:
 - Jira
 typora-copy-images-to: standard-bug

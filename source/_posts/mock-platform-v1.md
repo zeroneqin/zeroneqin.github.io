@@ -1,12 +1,10 @@
 ---
 title: Mock测试服务（平台）
-date: 2021-01-27 15:49:09
-updated: 
+date: 2022-12-27 20:29:11
+updated: 2023-10-27 21:40:10
 top: 870
 categories: 
-- [测试服务/平台, 辅助服务/平台, Mock平台]
-- [测试类型/技术, Mock技术]
-- [测试类型/技术, 接口测试]
+- [测试服务/平台, Mock服务]
 tags:
 
 typora-copy-images-to: mock-platform-v1

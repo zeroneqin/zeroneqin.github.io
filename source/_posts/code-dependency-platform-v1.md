@@ -1,14 +1,11 @@
 ---
 title: 依赖扫描服务
-date: 2021-01-27 15:49:09
-updated: 
+date: 2020-12-21 21:49:08
+updated: 2021-11-15 22:30:02
 top: 950
 categories: 
-- [测试服务/平台, 核心服务/平台, 扫描服务]
-- [测试类型/技术, 依赖扫描]
-- [测试类型/技术, 安全扫描/测试]
-- [测试类型/技术, 静态扫描]
-- [DevOps, 流水线, 质量关卡/质量门, 依赖安全质量门]
+- [测试服务/平台, 代码依赖扫描服务]
+- [DevOps, 质量关卡/质量门, 代码依赖质量门]
 tags:
 typora-copy-images-to: dependency-security-platform-v1
 typora-root-url: code-dependency-security-platform-v1

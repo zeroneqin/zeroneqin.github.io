@@ -1,12 +1,11 @@
 ---
 title: 功能测试服务（平台）
-date: 2020-01-15 10:20:01
-updated: 
-top: 880
+date: 2022-09-01 23:01:02
+updated: 2023-07-02 21:11:12
+top: 870
 categories: 
-- [测试服务/平台, 核心服务/平台, 功能测试服务]
-- [测试类型/技术, 功能测试]
-- [DevOps, 流水线, 质量关卡/质量门, 功能测试质量门]
+- [测试服务/平台, 功能测试服务]
+- [DevOps, 质量关卡/质量门, 功能测试质量门]
 tags:
   - [Function Test]
 typora-copy-images-to: function-platform-v1

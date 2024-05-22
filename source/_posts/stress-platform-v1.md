@@ -1,12 +1,11 @@
 ---
 title: 性能测试服务（平台）一期
-date: 2021-01-27 15:49:09
-updated:
+date: 2021-06-27 23:39:09
+updated: 2022-05-29 19:33:04
 top: 910
 categories: 
-- [测试服务/平台, 核心服务/平台, 性能/压力测试平台]
-- [测试类型/技术, 性能/压力测试]
-- [DevOps, 流水线, 质量关卡/质量门, 性能/压力质量门]
+- [测试服务/平台, 性能/压力测试服务]
+- [DevOps, 质量关卡/质量门, 性能/压力质量门]
 tags:
 typora-copy-images-to: stress-platform-v1
 typora-root-url: stress-platform-v1

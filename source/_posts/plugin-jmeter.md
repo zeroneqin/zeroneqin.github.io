@@ -1,9 +1,10 @@
 ---
 title: Jmeter插件-Json Schema校验插件
-date: 2020-01-15 10:20:01
-updated: 
+date: 2020-07-10 22:20:01
+updated: 2020-08-20 21:10:05
+top: 700
 categories: 
-- [测试类型/技术, 插件]
+- [测试技术, Jmeter插件]
 tags:
   - Jmeter
 typora-copy-images-to: plugin-jmeter

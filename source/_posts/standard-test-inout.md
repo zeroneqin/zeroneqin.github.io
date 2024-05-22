@@ -1,11 +1,10 @@
 ---
 title: 测试标准-准入准出
-date: 2020-01-15 10:20:01
-updated: 
+date: 2019-11-01 23:21:01
+updated: 2020-09-20 19:23:08
 top: 840
 categories: 
-- [测试规范/标准, 测试流程规范]
-- [测试管理, 测试流程管理]
+- [测试规范/标准, 测试准入准出]
 tags:
 
 typora-copy-images-to: standard-test-flow

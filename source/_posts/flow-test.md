@@ -1,11 +1,10 @@
 ---
 title: 测试流程规范
-date: 2020-01-15 10:20:01
-updated: 
+date: 2019-11-04 20:20:01
+updated: 2020-10-15 22:21:01
 top: 850
 categories: 
-- [测试规范/标准, Bug规范]
-- [测试管理, Bug管理]
+- [测试规范/标准, 测试流程规范]
 tags:
 - Jira
 typora-copy-images-to: standard-bug

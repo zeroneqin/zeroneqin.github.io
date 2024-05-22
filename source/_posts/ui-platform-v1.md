@@ -1,12 +1,11 @@
 ---
 title: UI测试服务（平台）
-date: 2020-01-15 10:20:01
-updated: 
+date: 2021-09-15 21:20:04
+updated: 2022-10-09 22:25:10
 top: 890
 categories: 
-- [测试服务/平台, 核心服务/平台, UI测试平台]
-- [测试类型/技术, UI测试]
-- [DevOps, 流水线, 质量关卡/质量门, UI质量门]
+- [测试服务/平台, UI测试服务]
+- [DevOps, 质量关卡/质量门, UI质量门]
 tags:
 
 typora-copy-images-to: ui-platform-v1

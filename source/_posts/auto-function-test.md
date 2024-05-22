@@ -1,10 +1,10 @@
 ---
 title: 功能测试自动化
-date: 2020-01-15 10:20:01
-updated: 
+date: 2020-04-10 21:20:01
+updated: 2020-04-10 21:20:01
+top: 600
 categories: 
 - [自动化测试, 功能自动化测试]
-- [测试类型/技术, 功能测试]
 tags:
 
 typora-copy-images-to: auto-function-test
