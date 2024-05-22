@@ -11,10 +11,6 @@ typora-copy-images-to: api-platform-v0
 typora-root-url: api-platform-v0
 ---
 
-**从0搭建一个接口测试平台。**
-project
-api->apidefine
-case->step
-project/case/step->run
+**从0搭建一个接口测试平台**
 
-{% asset_img api-platform-v0.png "api platform v0" %}
+{% asset_img api-platform-v0.jpg "api platform v0" %}
