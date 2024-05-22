@@ -5,7 +5,7 @@ updated: 2021-9-20 23:02:05
 top: 990
 categories: 
 - [测试服务/平台, 单元测试服务]
-- [DevOps, 质量关卡/质量门, 单元测试质量门]
+- [DevOps, 流水线, 质量关卡/质量门, 单元测试质量门]
 tags:
 
 typora-copy-images-to: ut-platform-v1

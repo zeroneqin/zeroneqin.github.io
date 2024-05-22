@@ -5,7 +5,7 @@ updated: 2023-08-24 21:20:03
 top: 910
 categories: 
 - [测试服务/平台, 接口扫描服务]
-- [DevOps, 质量关卡/质量门, 接口安全质量门]
+- [DevOps, 流水线, 质量关卡/质量门, 接口安全质量门]
 tags:
 
 typora-copy-images-to: api-security-platform-v1

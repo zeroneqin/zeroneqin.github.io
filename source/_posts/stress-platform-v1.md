@@ -5,7 +5,7 @@ updated: 2022-05-29 19:33:04
 top: 910
 categories: 
 - [测试服务/平台, 性能/压力测试服务]
-- [DevOps, 质量关卡/质量门, 性能/压力质量门]
+- [DevOps, 流水线, 质量关卡/质量门, 性能/压力质量门]
 tags:
 typora-copy-images-to: stress-platform-v1
 typora-root-url: stress-platform-v1

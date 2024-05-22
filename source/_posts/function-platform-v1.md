@@ -5,7 +5,7 @@ updated: 2023-07-02 21:11:12
 top: 870
 categories: 
 - [测试服务/平台, 功能测试服务]
-- [DevOps, 质量关卡/质量门, 功能测试质量门]
+- [DevOps, 流水线, 质量关卡/质量门, 功能测试质量门]
 tags:
   - [Function Test]
 typora-copy-images-to: function-platform-v1

@@ -5,7 +5,7 @@ updated: 2022-10-09 22:25:10
 top: 890
 categories: 
 - [测试服务/平台, UI测试服务]
-- [DevOps, 质量关卡/质量门, UI质量门]
+- [DevOps, 流水线, 质量关卡/质量门, UI质量门]
 tags:
 
 typora-copy-images-to: ui-platform-v1

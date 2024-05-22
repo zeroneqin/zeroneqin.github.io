@@ -4,7 +4,7 @@ date: 2022-10-27 20:49:09
 updated: 2023-12-06 21:00:23
 top: 1000
 categories: 
-- [DevOps, 流水线]
+- [DevOps, 流水线, 带质量门流水线]
 tags:
 
 typora-copy-images-to: jenkins-quality-gate

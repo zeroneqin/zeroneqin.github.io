@@ -5,7 +5,7 @@ updated: 2021-08-12 21:20:10
 top: 960
 categories: 
 - [测试服务/平台, 代码规格扫描服务]
-- [DevOps, 质量关卡/质量门, 代码规格质量门]
+- [DevOps, 流水线, 质量关卡/质量门, 代码规格质量门]
 tags:
 
 typora-copy-images-to: code-specific-platform-v1
